@@ -37,7 +37,8 @@
       <footer class="box" style="position: fixed; bottom: 0;">
          <div class="line">
             <div class="s-12 l-12" align="center">
-               <p>All Rights Reserved © <?= date("Y") ?> Human Resource Management</p>
+                       <p><a href="https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Aplicaciones-gratuitas-en-PHP,-Python-y-Javascript">Para más desarrollos ConfiguroWeb</p></a>
+      </div>
             </div>
          </div>
       </footer>
