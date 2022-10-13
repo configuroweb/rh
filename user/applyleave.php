@@ -12,7 +12,7 @@ if (isset($_POST['Apply'])) {
   $reason = $_POST['reason'];
   $startdate = $_POST['startdate'];
   $enddate = $_POST['enddate'];
-  $leavestatus = "Pendiente";
+  $leavestatus = "Pendient";
   /*date formate*/
   $date = str_replace('/', '-', $startdate);
   $startd = date('Y-m-d', strtotime($date));
